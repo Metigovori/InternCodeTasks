@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 function Result({ selectedOption, setStep }) {
+  
   const handleBackButtonClick = () => {
     setStep('1/2');
   };

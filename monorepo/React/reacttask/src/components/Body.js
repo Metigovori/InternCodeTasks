@@ -9,10 +9,7 @@ import image5 from '../assets/image5.jpg';
 import image6 from '../assets/image6.jpg';
 import image7 from '../assets/image7.jpg';
 import image8 from '../assets/image1.jpg';
-import image9 from '../assets/image1.jpg';
-import image10 from '../assets/image1.jpg';
-import image11 from '../assets/image1.jpg';
-import image12 from '../assets/image1.jpg';
+
 
 
 function Body({ setStep, setSelectedOption }) {
